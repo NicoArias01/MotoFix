@@ -1,0 +1,20 @@
+# Archivos que NO se suben a GitHub
+
+# Instaladores generados (pesan mucho; se comparten aparte)
+*.apk
+*.aab
+
+# Configuración privada de Firebase y ruta local del SDK
+google-services.json
+local.properties
+
+# Archivos de compilación y del editor
+.gradle/
+.kotlin/
+.idea/
+build/
+captures/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini

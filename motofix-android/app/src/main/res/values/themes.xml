@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.MotoFix" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">@color/motofix_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@color/motofix_background</item>
+    </style>
+</resources>
